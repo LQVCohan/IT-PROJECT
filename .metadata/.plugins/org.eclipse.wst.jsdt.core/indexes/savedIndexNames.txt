@@ -1,0 +1,2 @@
+INDEX VERSION 1.4+C:\Users\admin\Documents\GitHub\aws-cloudfront-eco\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3902430778.index
