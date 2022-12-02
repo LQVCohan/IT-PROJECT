@@ -53,8 +53,6 @@ a:hover {
 		<div class="row bg-secondary py-1 px-xl-5">
 			<div class="col-lg-6 d-none d-lg-block">
 				<div class="d-inline-flex align-items-center h-100">
-					<a class="text-body mr-3"
-						href="https://homepagelvlshop.herokuapp.com/">About</a>
 					<a class="text-body mr-3" href="${pageContext.request.contextPath}/admin/">Admin Page</a>
 					<a class="text-body mr-3" href="contact.jsp">Help</a> <a
 						class="text-body mr-3" href="faq.jsp">FAQs</a>
@@ -143,7 +141,7 @@ a:hover {
 			</div>
 			<div class="col-lg-4 col-6 text-right">
 				<p class="m-0">Customer Service</p>
-				<h5 class="m-0">+84 943 602 574</h5>
+				<h5 class="m-0">+84 988 367 022</h5>
 			</div>
 		</div>
 	</div>
