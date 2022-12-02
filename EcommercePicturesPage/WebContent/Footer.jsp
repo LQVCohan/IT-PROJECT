@@ -84,8 +84,7 @@
                     &copy; <a class="text-primary" href="#">Domain</a>. All Rights Reserved. Designed
                     by
                     <a class="text-primary" href="https://htmlcodex.com">HTML Codex</a>
-                    and re-edited by 
-                    <a class="text-primary" href="https://homepagelvlshop.herokuapp.com/">Team Web LVL</a>
+                    and re-edited by LV-team
                 </p>
             </div>
             <div class="col-md-6 px-xl-0 text-center text-md-right">
