@@ -125,7 +125,7 @@
 					Ngân, Linh Chiểu, Thành Phố Thủ Đức, Thành phố Hồ Chí Minh
 				</p>
 				<p class="mb-2">
-					<i class="fa fa-envelope text-primary mr-3"></i>20110517@student.hcmute.edu.vn
+					<i class="fa fa-envelope text-primary mr-3"></i>20110512@student.hcmute.edu.vn
 				</p>
 				<p class="mb-2">
 					<i class="fa fa-phone-alt text-primary mr-3"></i>+84 988 367 022

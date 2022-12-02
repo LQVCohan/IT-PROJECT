@@ -10,7 +10,7 @@
 			<!-- <property name="javax.persistence.jdbc.url"
 				value="jdbc:mysql://localhost:3306/ecopic?useSLL=false?autoReconnect=true?serverTimezone=UTC" />
 			<property name="javax.persistence.jdbc.user" value="root" />
-			<property name="javax.persistence.jdbc.password" value="123456" /> -->
+			<property name="javax.persistence.jdbc.password" value="12345" /> -->
 			<property name="javax.persistence.jdbc.url"
 				value="jdbc:mysql://database-ecopic.ccruz8igby04.us-east-1.rds.amazonaws.com:3306/ecopic?useSLL=false?autoReconnect=true?serverTimezone=UTC"/>
 			<property name="javax.persistence.jdbc.user" value="dql" />

@@ -23,6 +23,8 @@
 #	Username: admin@gmail.com
 #	Password: admin123
 
+
 # *Nhóm chúng em xin cam đoan đây là sản phẩm tự tay chúng em hoàn thành (trừ phần giao diện khách hàng), link github chưa thể hiện rõ quá trình hoàn thiện của chúng em # bởi vì đây là đồ án em xây dựng để báo cáo cuối kì cho môn Lập trình web, gần đây em mới nhớ ra và update new version lên github.
+
 
 # Nhóm em xin chân thành cảm ơn thầy!
